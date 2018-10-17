@@ -1,7 +1,7 @@
 
 var canvas = document.getElementById("myCanvas");
 
-backgrounds = ["#FBE8A6","#3B8BEB","#E7E3D4","#C4DBF6","#479761","#555555"];
+backgrounds = ["#FBE8A6","#3B8BEB","#E7E3D4","#B23850","#479761","#555555"];
 var ctx = canvas.getContext("2d");
 ctx.canvas.width  =810 ;
 ctx.canvas.height =620  ;
